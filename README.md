@@ -12,3 +12,5 @@ Mentored by:
 Saugatha Singha
 Department: Electronics  and Communication
 Visvesvaraya National Institue of Technology, Nagpur
+
+For Detailed explaination about the project refer docs
